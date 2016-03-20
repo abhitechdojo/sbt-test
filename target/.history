@@ -1,0 +1,8 @@
+:q
+exit
+console
+exit
+show gitHeadCommitSHA
+show gitHeadCommitSha
+quit
+exit
