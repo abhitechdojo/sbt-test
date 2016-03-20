@@ -6,3 +6,6 @@ show gitHeadCommitSHA
 show gitHeadCommitSha
 quit
 exit
+console
+show gitHeadCommitSha
+exit
